@@ -41,7 +41,7 @@ Add customizable coach marks into your iOS project. Available for both iPhone an
 
 ## Requirements
 - Xcode 11 / Swift 5+
-- iOS 11.0+
+- iOS 9.0+
 
 ## Asking Questions / Contributing
 
@@ -62,7 +62,7 @@ Add Instructions to your Podfile:
 
 ```ruby
 source 'https://github.com/CocoaPods/Specs.git'
-platform :ios, '10.0'
+platform :ios, '9.0'
 use_frameworks!
 
 pod 'Instructions', '~> 1.4.0'
